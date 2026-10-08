@@ -4,7 +4,7 @@ Sample projects that run as static sites on [Artifact Share](https://artifactsha
 
 | Example | What it shows |
 |---|---|
-| [`japan-climate`](examples/japan-climate) | 150 years of JMA climate records for 158 stations, aggregated in the browser with DuckDB-WASM and drawn with React, canvas, and SVG |
+| [`japan-climate`](examples/japan-climate) · [live](https://artifactshare.com/a/lxqssw989q) | 150 years of JMA climate records for 158 stations, aggregated in the browser with DuckDB-WASM and drawn with React, canvas, and SVG |
 
 ```sh
 pnpm install

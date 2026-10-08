@@ -4,6 +4,8 @@
 
 An interactive visualization of 150 years of monthly climate records from 158 Japan Meteorological Agency stations (200,000 rows), aggregated in the browser with DuckDB-WASM. There is no server: it is a static site with bundled Parquet files, published on [Artifact Share](https://artifactshare.com).
 
+**Live:** https://artifactshare.com/a/lxqssw989q
+
 ## What it shows
 
 - **Archipelago timeline** — every station drawn at its latitude and longitude over a wireframe map, colored by its annual anomaly against 1961–1990. Each frame of the 1891→2025 playback is a real SQL query (about 1 ms).
